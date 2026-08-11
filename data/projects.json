@@ -365,6 +365,62 @@
       ],
       "score": null,
       "notes": "使用者提供的偏好範例；不得當成新推薦。"
+    },
+    {
+      "github_id": 52827329,
+      "repository": "fulldecent/system-bus-radio",
+      "canonical_url": "https://github.com/fulldecent/system-bus-radio",
+      "status": "shared",
+      "added_at": "2026-08-11",
+      "first_shared_at": "2026-08-11",
+      "categories": [
+        "technical-curiosity",
+        "cybersecurity"
+      ],
+      "score": 9.6,
+      "notes": "透過刻意操作記憶體匯流排產生電磁輻射，讓沒有無線發射硬體的電腦播放 AM 訊號。"
+    },
+    {
+      "github_id": 46629305,
+      "repository": "NARKOZ/hacker-scripts",
+      "canonical_url": "https://github.com/NARKOZ/hacker-scripts",
+      "status": "shared",
+      "added_at": "2026-08-11",
+      "first_shared_at": "2026-08-11",
+      "categories": [
+        "developer-humor",
+        "developer-culture"
+      ],
+      "score": 8.9,
+      "notes": "將工程師凡事自動化的都市傳說實作成可執行腳本，包括自動請假、回信與煮咖啡。"
+    },
+    {
+      "github_id": 107286889,
+      "repository": "schollz/croc",
+      "canonical_url": "https://github.com/schollz/croc",
+      "status": "shared",
+      "added_at": "2026-08-11",
+      "first_shared_at": "2026-08-11",
+      "categories": [
+        "digital-autonomy",
+        "practical-tool"
+      ],
+      "score": 8.7,
+      "notes": "用短語配對跨裝置傳輸檔案，透過 PAKE 建立端對端加密，支援 relay、續傳與多平台。"
+    },
+    {
+      "github_id": 61964127,
+      "repository": "86Box/86Box",
+      "canonical_url": "https://github.com/86Box/86Box",
+      "status": "shared",
+      "added_at": "2026-08-11",
+      "first_shared_at": "2026-08-11",
+      "categories": [
+        "retro-hardware",
+        "digital-archive"
+      ],
+      "score": 8.6,
+      "notes": "低階精準模擬 1981 年起的 IBM PC 相容硬體、處理器與大量周邊，讓舊系統在硬體層級重生。"
     }
   ]
 }
