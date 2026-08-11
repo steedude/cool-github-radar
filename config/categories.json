@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "technical-curiosity",
+      "name_zh": "技術奇觀",
+      "description": "利用意想不到的訊號、演算法或系統機制完成某件事。"
+    },
+    {
+      "id": "cybersecurity",
+      "name_zh": "資安與側通道",
+      "description": "揭露追蹤、資訊洩漏、攻防邊界或非常規資料來源。"
+    },
+    {
+      "id": "developer-humor",
+      "name_zh": "工程師黑色幽默",
+      "description": "把工程師文化中的荒謬、惡作劇或笑話做成可執行專案。"
+    },
+    {
+      "id": "developer-culture",
+      "name_zh": "工程師文化",
+      "description": "反映軟體開發者的工作、習慣、語言與次文化。"
+    },
+    {
+      "id": "digital-autonomy",
+      "name_zh": "數位自主",
+      "description": "減少平台依賴，重新取得對資料、裝置、媒體或運算的控制。"
+    },
+    {
+      "id": "practical-tool",
+      "name_zh": "實用異能工具",
+      "description": "確實能使用，且提供一般系統或主流產品沒有的能力。"
+    },
+    {
+      "id": "community-knowledge",
+      "name_zh": "民間教科書",
+      "description": "由社群整理、可協作修正且高度可操作的公共知識庫。"
+    },
+    {
+      "id": "internet-culture",
+      "name_zh": "網路文化",
+      "description": "保存或呈現網路社群、迷因、政治語彙與集體敘事。"
+    },
+    {
+      "id": "digital-archive",
+      "name_zh": "數位博物館",
+      "description": "蒐集與保存可能散失的數位文化、素材或歷史。"
+    },
+    {
+      "id": "career-learning",
+      "name_zh": "工程學習與職涯",
+      "description": "把龐大工程知識或職涯路徑壓縮成可循序實踐的教材。"
+    },
+    {
+      "id": "ai-learning",
+      "name_zh": "AI 能力擴充",
+      "description": "協助理解、部署、調整或更有效使用 AI 與 LLM。"
+    },
+    {
+      "id": "build-from-scratch",
+      "name_zh": "從零重造",
+      "description": "透過重新實作既有技術理解黑盒內部。"
+    },
+    {
+      "id": "retro-hardware",
+      "name_zh": "復古硬體改造",
+      "description": "老科技、計算器、離線設備或物理硬體的重新利用與改裝。"
+    }
+  ]
+}
