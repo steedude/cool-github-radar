@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "updated_at": "2026-08-11",
+  "minimum_score": 7.5,
+  "preferred_traits": [
+    {
+      "id": "unexpected-use",
+      "weight": 1,
+      "note": "用途或機制出乎意料，會讓人產生「居然能這樣做」的反應。"
+    },
+    {
+      "id": "technical-curiosity",
+      "weight": 1,
+      "note": "背後原理值得拆解、實驗或重現。"
+    },
+    {
+      "id": "digital-autonomy",
+      "weight": 0.9,
+      "note": "解除平台限制，增加對資料、裝置或運算的控制。"
+    },
+    {
+      "id": "human-technology-intersection",
+      "weight": 0.9,
+      "note": "結合技術與心理、社會、文化、權力或人類行為。"
+    },
+    {
+      "id": "hacker-culture",
+      "weight": 0.85,
+      "note": "探索系統邊界、側通道、非常規用途或巧妙繞路。"
+    },
+    {
+      "id": "community-knowledge",
+      "weight": 0.8,
+      "note": "把分散的民間知識整理成可操作、可協作的指南。"
+    },
+    {
+      "id": "retro-hardware",
+      "weight": 0.8,
+      "note": "老科技、硬體改造、物理世界與數位系統的交界。"
+    },
+    {
+      "id": "developer-humor",
+      "weight": 0.75,
+      "note": "工程師黑色幽默或把荒謬梗真正實作出來。"
+    }
+  ],
+  "less_interested_traits": [
+    {
+      "id": "generic-framework",
+      "weight": -0.8
+    },
+    {
+      "id": "ordinary-boilerplate",
+      "weight": -0.9
+    },
+    {
+      "id": "commercial-saas-clone",
+      "weight": -0.8
+    },
+    {
+      "id": "undifferentiated-awesome-list",
+      "weight": -0.6
+    },
+    {
+      "id": "thin-ai-wrapper",
+      "weight": -0.9
+    }
+  ],
+  "language_preferences": [
+    "zh-TW",
+    "en",
+    "zh-CN"
+  ],
+  "non_repository_inspirations": [
+    {
+      "name": "Interview Coder",
+      "note": "AI 面試助手；目前沒有足以去重的明確 GitHub owner/repo。"
+    },
+    {
+      "name": "DeepWiki",
+      "note": "可對話式閱讀 repo 文件的服務；本身不是明確的 GitHub repo。"
+    }
+  ],
+  "feedback_scale": {
+    "like": 2,
+    "interesting": 1,
+    "neutral": 0,
+    "dislike": -2
+  }
+}
