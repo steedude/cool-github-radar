@@ -35,13 +35,18 @@
     },
     {
       "id": "retro-hardware",
-      "weight": 0.8,
-      "note": "老科技、硬體改造、物理世界與數位系統的交界。"
+      "weight": 0.75,
+      "note": "喜歡老科技與硬體改造，但純博物館式模擬的優先度較低；最好能立即使用、遊玩或實驗。"
     },
     {
       "id": "developer-humor",
       "weight": 0.75,
       "note": "工程師黑色幽默或把荒謬梗真正實作出來。"
+    },
+    {
+      "id": "practical-retro-emulation",
+      "weight": 0.9,
+      "note": "偏好現在就能安裝使用的復古遊戲與掌機工具，例如成熟的 GBA／舊主機模擬器，而不只是硬體史展示。"
     }
   ],
   "less_interested_traits": [
@@ -86,5 +91,35 @@
     "interesting": 1,
     "neutral": 0,
     "dislike": -2
-  }
+  },
+  "selection_guidance": {
+    "practical_value": "同樣有趣時，優先推薦可立即安裝、實驗、玩或納入個人工作流的專案。",
+    "retro_emulation": "模擬器類優先順序：成熟可玩的掌機／舊主機模擬器 > 具有特殊功能的模擬器 > 純硬體博物館型 PC 模擬器。",
+    "balance": "技術奇觀與黑色幽默仍可純欣賞；工具與模擬器則提高實用性權重。"
+  },
+  "feedback_history": [
+    {
+      "date": "2026-08-11",
+      "round": "recommendations/2026/2026-08.md#2026-08-11第一次手動試跑",
+      "ratings": [
+        {
+          "repository": "fulldecent/system-bus-radio",
+          "feedback": "like"
+        },
+        {
+          "repository": "NARKOZ/hacker-scripts",
+          "feedback": "like"
+        },
+        {
+          "repository": "schollz/croc",
+          "feedback": "like"
+        },
+        {
+          "repository": "86Box/86Box",
+          "feedback": "interesting",
+          "note": "概念不錯，但模擬器若更實用會更好；例如 GBA 模擬器。"
+        }
+      ]
+    }
+  ]
 }
