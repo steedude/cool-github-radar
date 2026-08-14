@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-11",
+  "updated_at": "2026-08-14",
   "projects": [
     {
       "github_id": null,
@@ -465,6 +465,49 @@
       ],
       "score": 9,
       "notes": "免 root、免手機端安裝、免帳號與網路，透過 USB 或 TCP/IP 低延遲鏡像並控制 Android。"
+    },
+    {
+      "github_id": 167916892,
+      "repository": "corkami/collisions",
+      "canonical_url": "https://github.com/corkami/collisions",
+      "status": "shared",
+      "added_at": "2026-08-14",
+      "first_shared_at": "2026-08-14",
+      "categories": [
+        "technical-curiosity",
+        "cybersecurity"
+      ],
+      "score": 9.5,
+      "notes": "可在數秒內製作內容不同但 MD5 相同的多種檔案，並展示利用檔案格式區塊、註解與解析差異實作碰撞、polycollision 與 hash pileup。"
+    },
+    {
+      "github_id": 311683390,
+      "repository": "WerWolv/ImHex",
+      "canonical_url": "https://github.com/WerWolv/ImHex",
+      "status": "shared",
+      "added_at": "2026-08-14",
+      "first_shared_at": "2026-08-14",
+      "categories": [
+        "practical-tool",
+        "cybersecurity",
+        "technical-curiosity"
+      ],
+      "score": 9.2,
+      "notes": "面向逆向工程的現代 Hex Editor，以 Pattern Language 自動解析並上色二進位結構，另有資料處理器、視覺化與外掛。"
+    },
+    {
+      "github_id": 796532,
+      "repository": "The-Powder-Toy/The-Powder-Toy",
+      "canonical_url": "https://github.com/The-Powder-Toy/The-Powder-Toy",
+      "status": "shared",
+      "added_at": "2026-08-14",
+      "first_shared_at": "2026-08-14",
+      "categories": [
+        "technical-curiosity",
+        "practical-tool"
+      ],
+      "score": 8.9,
+      "notes": "把氣壓、速度、熱、重力、物質反應與電子元件放進可玩的粒子物理沙盒，可蓋機器、反應爐甚至 CPU，並支援 Lua 自動化與外掛。"
     }
   ]
 }
