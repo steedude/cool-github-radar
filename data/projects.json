@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-14",
+  "updated_at": "2026-08-18",
   "projects": [
     {
       "github_id": null,
@@ -508,6 +508,51 @@
       ],
       "score": 8.9,
       "notes": "把氣壓、速度、熱、重力、物質反應與電子元件放進可玩的粒子物理沙盒，可蓋機器、反應爐甚至 CPU，並支援 Lua 自動化與外掛。"
+    },
+    {
+      "github_id": 74962515,
+      "repository": "gchq/CyberChef",
+      "canonical_url": "https://github.com/gchq/CyberChef",
+      "status": "shared",
+      "added_at": "2026-08-18",
+      "first_shared_at": "2026-08-18",
+      "categories": [
+        "practical-tool",
+        "cybersecurity",
+        "digital-autonomy"
+      ],
+      "score": 9.3,
+      "notes": "由 GCHQ 開源的瀏覽器端資料處理工作台，以可串接 recipe 完成編解碼、加解密、壓縮、雜湊與格式分析，資料預設不離開本機。"
+    },
+    {
+      "github_id": 341208122,
+      "repository": "seemoo-lab/openhaystack",
+      "canonical_url": "https://github.com/seemoo-lab/openhaystack",
+      "status": "shared",
+      "added_at": "2026-08-18",
+      "first_shared_at": "2026-08-18",
+      "categories": [
+        "technical-curiosity",
+        "cybersecurity",
+        "digital-autonomy"
+      ],
+      "score": 9.2,
+      "notes": "逆向 Apple Find My 離線尋找協定，讓 micro:bit、ESP32 等自製 BLE 裝置透過附近 iPhone 回傳端對端加密位置；屬研究性實驗軟體。"
+    },
+    {
+      "github_id": 444190165,
+      "repository": "hackclub/sprig",
+      "canonical_url": "https://github.com/hackclub/sprig",
+      "status": "shared",
+      "added_at": "2026-08-18",
+      "first_shared_at": "2026-08-18",
+      "categories": [
+        "retro-hardware",
+        "community-knowledge",
+        "technical-curiosity"
+      ],
+      "score": 9,
+      "notes": "結合網頁遊戲編輯器、社群作品庫與 Raspberry Pi Pico 開源掌機，讓同一份 JavaScript 遊戲能在瀏覽器與微控制器上執行。"
     }
   ]
 }
