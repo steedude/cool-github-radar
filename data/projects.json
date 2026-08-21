@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-18",
+  "updated_at": "2026-08-21",
   "projects": [
     {
       "github_id": null,
@@ -553,6 +553,51 @@
       ],
       "score": 9,
       "notes": "結合網頁遊戲編輯器、社群作品庫與 Raspberry Pi Pico 開源掌機，讓同一份 JavaScript 遊戲能在瀏覽器與微控制器上執行。"
+    },
+    {
+      "github_id": 14158237,
+      "repository": "copy/v86",
+      "canonical_url": "https://github.com/copy/v86",
+      "status": "shared",
+      "added_at": "2026-08-21",
+      "first_shared_at": "2026-08-21",
+      "categories": [
+        "technical-curiosity",
+        "practical-tool",
+        "digital-autonomy"
+      ],
+      "score": 9.4,
+      "notes": "在瀏覽器完整模擬 x86 CPU 與 PC 硬體，將機器碼即時翻譯成 WebAssembly，可直接啟動 Linux、DOS、舊 Windows、Haiku 等系統。"
+    },
+    {
+      "github_id": 144465372,
+      "repository": "RfidResearchGroup/proxmark3",
+      "canonical_url": "https://github.com/RfidResearchGroup/proxmark3",
+      "status": "shared",
+      "added_at": "2026-08-21",
+      "first_shared_at": "2026-08-21",
+      "categories": [
+        "practical-tool",
+        "cybersecurity",
+        "technical-curiosity"
+      ],
+      "score": 9.2,
+      "notes": "由早期 Proxmark3 演化出的 Iceman 社群版本，配合實體硬體辨識、讀寫、嗅探、模擬與分析低頻／高頻 RFID、NFC 標籤。"
+    },
+    {
+      "github_id": 43677244,
+      "repository": "pret/pokeemerald",
+      "canonical_url": "https://github.com/pret/pokeemerald",
+      "status": "shared",
+      "added_at": "2026-08-21",
+      "first_shared_at": "2026-08-21",
+      "categories": [
+        "build-from-scratch",
+        "digital-archive",
+        "practical-tool"
+      ],
+      "score": 9.1,
+      "notes": "將《寶可夢 綠寶石》GBA ROM 逆向重建為可閱讀修改的 C 與 ARM 組合語言，能編譯出 SHA-1 與原版相符的 ROM。"
     }
   ]
 }
